@@ -1,0 +1,12 @@
+ Node            Displacements                Applied/reaction forces
+number     1-direction     2-direction      1-direction     2-direction
+     1     0.000000000     0.000000000      0.000000000     0.000000000
+     2     0.000000000     0.000560303      0.000000000    -0.000000016
+     3    -0.011391955     0.000000000      0.000000003     0.000000017
+     4    -0.011391955     0.000560303      0.000000003    -0.000000017
+                                            ___________     ___________
+                              Summation     0.000000005    -0.000000016
+
+Element                    Element strain                                   Element Stress
+number      1-direction     2-direction     3-direction      1-direction     2-direction     3-direction
+      1     0.000000000     0.000000000     0.000000000     -0.000000265     0.000000168    -0.000000000
