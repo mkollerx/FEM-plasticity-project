@@ -1,0 +1,4 @@
+.DS_Store
+fem_solver
+*.o
+*.mod
